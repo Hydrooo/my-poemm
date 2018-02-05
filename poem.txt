@@ -2,3 +2,6 @@ green
 blue
 yellow
 red
+red2
+purple
+turquoise
